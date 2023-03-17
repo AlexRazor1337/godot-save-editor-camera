@@ -1,5 +1,5 @@
 # Save Editor Camera
-This small plugin allows to save editor camera as node.
+This small plugin allows to save editor camera as node. Using workaround posted [here](https://github.com/godotengine/godot-proposals/issues/1302#issuecomment-753432717).
 
 ## Installation
 
